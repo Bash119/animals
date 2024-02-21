@@ -2,3 +2,5 @@ Fifi
 Blue
 Scout
 Sora
+Monty 
+Luka
